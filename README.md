@@ -64,6 +64,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+https://github.com/gitname/react-gh-pages --> use this for reference for app hosting on github gh-pages
 
 ### `npm run build` fails to minify
 
